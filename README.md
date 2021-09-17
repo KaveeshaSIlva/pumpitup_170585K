@@ -4,7 +4,7 @@
 
 ### Checks for dupplicate values
 ### Remove same data in different ways(eg:-Management & manageent_group)
-### remove unnecesa  (num_private, date_recorded)
+### remove unnecessary  (num_private, date_recorded)
 ### Fill null values by Unknown
 ### Place less frequent values into one
 ### Performed One hot encoding
